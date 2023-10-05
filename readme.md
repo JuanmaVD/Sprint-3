@@ -11,3 +11,7 @@ Mas de: Motivar mas al grupo asi se logra el maximo rendimiento de los integrant
 Menos de: Hablar menos de temas no referidos al trabajo y/o distracciones varias, respetar los recreos y los horarios de trabajo.
 
 Enlace al tablero de JIRA: https://id.atlassian.com/invite/p/jira-software?id=zlUpn4fRQLap-AsVuUoWCA
+
+Miguel Kruzliak, Leonardo Secotaro, Lucio Malgioglio, Tomas Via, Nicolas Garcia, Juan Francisco Vazquez y Juan Manuel Valdivia.
+
+Grupo Patacones
