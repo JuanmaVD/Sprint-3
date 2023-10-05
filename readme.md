@@ -1,25 +1,13 @@
+Estrella de Mar retrospectiva...
 
-Realizar las siguientes actividades correspondientes al práctico de Ingeniería Inversa.
+Conservar: La comunicación dentro del equipo, la constancia y la distribución de tareas.
 
-Modelo de Diagrama de Clase:
-- Ver los videos de esta playlist
-  https://www.youtube.com/playlist?list=PLRFOqDrY-6nv7yXWNgFJe8ELDUfJGLI2J
+Detener: Dejar de perder tiempo por no leer las advertencias del profesor en el grupo.
 
-Link de descarga del Enterprice Arquitec
-https://drive.google.com/file/d/1sil27mwVW4Fq2_jl7kMg6oH4qR5oanpn/view
+Inicio: Empezar a organizar mejor las tareas en Jira, aprender a sacarle provecho a las herramientas que ayudan a organizar el grupo y guiar el avance del proyecto.
 
-Link del proyecto a Analizar en Git hub.
-- Estudiar las entidades y enumeraciones correspondientes y realizar la intepretación de las mismas.
-- Diseñar el diagrama de clases correspondiente con todos sus componentes.
-- Capturar la pantalla del diagrama y pegarla en un documento word. El nombre del archivo será apellidoLegajoDiag.doc
-- Entregar el archivo en formato.doc en el sitio correspondiente a tareas del aula virtual - PESTAÑA de Entrega de prácticos
+Mas de: Motivar mas al grupo asi se logra el maximo rendimiento de los integrantes, mejorar la participación activa de cada integrante.
 
-Rúbrica de evaluación:
-- Todas las clases
- -Todas las enumeraciones
-- Propiedades y métodos en las clases
-- Todas las relaciones
-- Todas las cardinalidades
+Menos de: Hablar menos de temas no referidos al trabajo y/o distracciones varias, respetar los recreos y los horarios de trabajo.
 
-Fecha de Entrega
-Martes 26 de septiembre - hora 23:00 hs
+Enlace al tablero de JIRA: https://id.atlassian.com/invite/p/jira-software?id=zlUpn4fRQLap-AsVuUoWCA
